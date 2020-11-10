@@ -1,0 +1,40 @@
+body {
+	background: black;	
+	font-family: 'Roboto', sans-serif;
+}
+
+.post {
+	margin: 4% auto auto auto;
+	background-color:white;
+	max-width: 500px;
+}
+
+.post-body {
+	padding: 10px;
+}
+
+.post-body > div{
+	padding: 5px;
+}
+
+.far, .fab, .fas {
+	font-size: 38px;
+	padding: 0px 4px 0px 2px;
+}
+
+.fa-bookmark {
+	float: right;
+}
+.fas {
+	float: right;
+}
+
+
+.post-header {
+	width: 480px;
+	padding: 10px;
+}
+
+.post-header > div {
+	display: inline-block;
+}
